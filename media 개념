@@ -1,0 +1,10 @@
+.box {
+  width:200px;
+  height: 100px;
+  background-color: royalblue;
+}
+@media (min-height:600px) {
+  .box{
+    background-color:orange;
+  }
+}
